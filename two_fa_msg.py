@@ -1,8 +1,8 @@
 import pyotp
 from twilio.rest import Client
 
-account_sid = "ACf3bacac5ef57f4063fe437ba43f10fb5"
-auth_token = "6a68aac26d3b25db69655672c0906bb2"
+account_sid = "<account_sid>"
+auth_token = "<auth_token>"
 
 
 def send_msg(phone_number: str, body: str):

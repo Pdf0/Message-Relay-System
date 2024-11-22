@@ -24,7 +24,7 @@
 
 ## Introdução
 
-Este trabalho prático tem como objetivo a implementação de um sistema de mensagens seguras, que permita a troca de mensagens entre utilizadores de forma segura e autenticada. Para tal, foi implementado um sistema de comunicação cliente/servidor, que permite a troca de mensagens entre utilizadores, com autenticação e encriptação de mensagens. O sistema garante a autenticação de utilizadores através de certificados digitais, a validação de timestamps e a autenticação de dois fatores, através de TOTP (Time-based One-Time Password) e SMS. O sistema armazena informação relativa a utilizadores, mensagens e logs, numa base de dados.
+Este projeto tem como objetivo a implementação de um sistema de mensagens seguras, que permita a troca de mensagens entre utilizadores de forma segura e autenticada. Para tal, foi implementado um sistema de comunicação cliente/servidor, que permite a troca de mensagens entre utilizadores, com autenticação e encriptação de mensagens. O sistema garante a autenticação de utilizadores através de certificados digitais, a validação de timestamps e a autenticação de dois fatores, através de TOTP (Time-based One-Time Password) e SMS. O sistema armazena informação relativa a utilizadores, mensagens e logs, numa base de dados.
 
 ## Arquitetura
 
